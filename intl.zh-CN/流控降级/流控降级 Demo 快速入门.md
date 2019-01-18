@@ -13,7 +13,7 @@ AHAS 为您提供快速上手的流控降级样例工程（Demo），模拟访�
 1.  免费[开通 AHAS 服务](../../../../../intl.zh-CN/.md#)。
 2.  登录 [AHAS 控制台](https://ahas.console.aliyun.com)。
 
-3.  在管理控制台最上方地域列表中，在管理控制台最上方地域列表中，选择 Region：
+3.  在管理控制台最上方地域列表中，选择 Region：
 
 -   如果您不确定如何选择 Region，可以选择 **公网**，作为样例工程运行环境；
 -   如果您有阿里云北京、杭州或深圳 VPC 的机器，可以选择对应的 Region。
@@ -56,11 +56,11 @@ AHAS 为您提供快速上手的流控降级样例工程（Demo），模拟访�
 
         ![demo-result](https://aliware-images.oss-cn-hangzhou.aliyuncs.com/ahas/dg_demo_resource_result.png)
 
-    **说明：** 关于流控规则的更多说明，参考[流控规则](intl.zh-CN//流控规则.md#)。
+    **说明：** 关于流控规则的更多说明，参考[流控规则](intl.zh-CN/流控降级/控制台指南/流控规则.md#)。
 
 
 您也可以基于 Demo 应用进行更多操作：
 
--    [创建降级规则](intl.zh-CN//降级规则.md#) 
--   [创建系统规则](intl.zh-CN//系统规则.md#)
+-    [创建降级规则](intl.zh-CN/流控降级/控制台指南/降级规则.md#) 
+-   [创建系统规则](intl.zh-CN/流控降级/控制台指南/系统规则.md#)
 
